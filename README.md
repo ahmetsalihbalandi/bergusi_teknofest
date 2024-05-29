@@ -1,2 +1,2 @@
 # bergusi_teknofest
-The project "Quadcopter without GPS"
+Gps-free quadcopter project with image processing and mapping methods
