@@ -1,2 +1,2 @@
 # bergusi_teknofest
-Non-GPS quadcopter project with image processing and mapping methods.
+GPS-denied quadcopter project with image processing and mapping methods.
